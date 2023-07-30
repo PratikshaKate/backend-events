@@ -2,10 +2,24 @@
   "events": [
     {
       "id": "e1",
-      "title": "A dummy event",
+      "title": "High velocity",
       "date": "2023-02-22",
       "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
       "description": "Join this amazing event and connect with fellow developers."
+    },
+    {
+      "id": "e2",
+      "title": "Work life balance",
+      "date": "2023-04-15",
+      "image": "https://media.istockphoto.com/id/1382269943/photo/group-of-diverse-business-people-on-panel-discussion.jpg?s=612x612&w=0&k=20&c=y3vc8xBUK1xejzt3kQ_5ukLi6cYil8c4hIQa7uD5rCI=",
+      "description": "Understand the importance and learn the skills to get the balance"
+    },
+    {
+      "id": "e3",
+      "title": "Team work",
+      "date": "2023-06-10",
+      "image": "https://media.istockphoto.com/id/1392016982/photo/mixed-group-of-business-people-sitting-around-a-table-and-talking.jpg?s=612x612&w=0&k=20&c=d7mWQhdzKrowHYTWXXcCrNn02uyfLYQYB78M75G8lKg=",
+      "description": "Get the skills to work in a team"
     }
   ]
 }
