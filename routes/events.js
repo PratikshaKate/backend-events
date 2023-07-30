@@ -1,5 +1,5 @@
 const express = require("express");
-
+const cors = require("cors");
 const { getAll, get, add, replace, remove } = require("../data/event");
 const {
   isValidText,
